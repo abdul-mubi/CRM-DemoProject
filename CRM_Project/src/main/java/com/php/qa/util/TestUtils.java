@@ -27,7 +27,7 @@ public class TestUtils extends BaseClass {
 	public static long page_load_timeout = 20;
 	public static long implicit_timeout = 20;
 	
-	public static String path = "/Users/abdul/eclipse-workspace/DemoProject/src/main/java/com/php/qa/testdata/TestData.xlsx" ;
+	public static String path = "/Users/abdul/eclipse-workspace/CRM_Project/src/main/java/com/php/qa/testdata/TestData.xlsx" ;
 	
 	public static XSSFWorkbook book;
 	public static XSSFSheet sheet;
